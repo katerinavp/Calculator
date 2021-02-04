@@ -198,9 +198,8 @@
         android:layout_below="@id/btnPlus"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-
         android:layout_toEndOf="@id/btnPoint"
-        android:background="#FF6F00"
+        android:backgroundTint="#FF6F00"
         android:text="=" />
 
 </RelativeLayout>
